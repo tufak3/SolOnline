@@ -1,0 +1,9 @@
+.map-container {
+    position: relative;
+    width: 1400px;
+    height: 953px;
+    margin: auto;
+    background: url('./map.png') no-repeat center center;
+    background-size: cover;
+  }
+  
